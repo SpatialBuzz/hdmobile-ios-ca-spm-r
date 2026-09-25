@@ -1,11 +1,4 @@
-//
-//  Untitled.swift
-//  rogershdmobile
-//
-//  Created by motahar malik on 25/09/2026.
-//
-
-// swift-tools-version:5.6
+// swift-tools-version:5.7
 import PackageDescription
 
 let package = Package(
