@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "rogershdmobile",
             url: "https://github.com/SpatialBuzz/hdmobile-ios-ca-spm-r/releases/download/1.0.1/rogershdmobile.xcframework.zip",
-            checksum: "eb769a20174cd3b32e1d1e4f3076faabfa0e7de30cd52fe1f1a7e60b2e3cd3cf"
+            checksum: "15c219211870a7744d5da73378d8fb1d74519d0fca37e259f893dbebba9e9cb9"
         ),
         .binaryTarget(
             name: "SpeedtestSDK",
